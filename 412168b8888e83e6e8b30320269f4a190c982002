@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_5fc90158",
+        "filename": "Trader.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1004792
+      },
+      "writtenOn": "2015-04-28T15:05:35Z",
+      "side": 1,
+      "message": "unneeded blank line",
+      "revId": "412168b8888e83e6e8b30320269f4a190c982002",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_bfc2b531",
+        "filename": "Trader.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 1004792
+      },
+      "writtenOn": "2015-04-28T15:05:35Z",
+      "side": 1,
+      "message": "make variable \"tradername\" so the comment can be removed.",
+      "range": {
+        "startLine": 13,
+        "startChar": 1,
+        "endLine": 14,
+        "endChar": 13
+      },
+      "revId": "412168b8888e83e6e8b30320269f4a190c982002",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
