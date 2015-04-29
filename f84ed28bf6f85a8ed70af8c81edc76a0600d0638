@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_bd0ab323",
+        "filename": "OrderUtility.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 1004741
+      },
+      "writtenOn": "2015-04-29T15:55:45Z",
+      "side": 1,
+      "message": "a lot of conditionals makes this less readable.",
+      "range": {
+        "startLine": 13,
+        "startChar": 7,
+        "endLine": 14,
+        "endChar": 79
+      },
+      "revId": "f84ed28bf6f85a8ed70af8c81edc76a0600d0638",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
