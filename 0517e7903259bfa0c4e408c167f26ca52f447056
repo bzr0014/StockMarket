@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_8c7b3d8b",
+        "filename": "OrderUtility.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 1004790
+      },
+      "writtenOn": "2015-04-30T15:01:23Z",
+      "side": 1,
+      "message": "Add comments to explain method",
+      "range": {
+        "startLine": 28,
+        "startChar": 0,
+        "endLine": 35,
+        "endChar": 2
+      },
+      "revId": "0517e7903259bfa0c4e408c167f26ca52f447056",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_ac76f9a1",
+        "filename": "OrderUtility.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 1004790
+      },
+      "writtenOn": "2015-04-30T15:01:23Z",
+      "side": 1,
+      "message": "Add comments to explain method",
+      "range": {
+        "startLine": 37,
+        "startChar": 1,
+        "endLine": 46,
+        "endChar": 2
+      },
+      "revId": "0517e7903259bfa0c4e408c167f26ca52f447056",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
