@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_6c4c0b9f",
+        "filename": "Trader.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1004782
+      },
+      "writtenOn": "2015-04-30T00:05:11Z",
+      "side": 1,
+      "message": "Unnecessary comment. Variable ordersPlaced within Trader would be expected to be the orders placed by the trader.",
+      "revId": "0dd521373508b212125850b72fd65146300b9cde",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_ec5f5b3f",
+        "filename": "Trader.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1004782
+      },
+      "writtenOn": "2015-04-30T00:05:11Z",
+      "side": 1,
+      "message": "Unnecessary call to super()",
+      "revId": "0dd521373508b212125850b72fd65146300b9cde",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_6c336b14",
+        "filename": "Trader.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 184,
+      "author": {
+        "id": 1004782
+      },
+      "writtenOn": "2015-04-30T00:05:11Z",
+      "side": 1,
+      "message": "Variable name unclear, using the singular \"order\" to refer to a list of orders.",
+      "revId": "0dd521373508b212125850b72fd65146300b9cde",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
